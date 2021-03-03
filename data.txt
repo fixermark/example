@@ -1,1 +1,2 @@
+You now have an additional file in your repository. That's great!
 You now have an additional file in your repository. That's not so bad!
